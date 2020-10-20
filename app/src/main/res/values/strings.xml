@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">New</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="btnRegresar">Regresar</string>
+    <string name="btnLlamar">Llamar</string>
+    <string name="btnWhats">WhatsApp</string>
+    <string name="btnImg">WhatsApp_Imagen</string>
+    <string name="btnFacebook">Facebook</string>
+    <string name="btnMessenger">Messenger</string>
+    <string name="btnInstagram">Instagram</string>
+    <string name="btnTwitter">Twitter</string>
+</resources>
